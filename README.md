@@ -47,7 +47,7 @@ npm install
 
 
 
-## FOR TERMUX/UBUNTU/SSH USER
+##  TERMUX
 
 ```bash
 apt update && apt upgrade
@@ -59,43 +59,23 @@ cd Hisoka-Morou
 npm install
 ```
 
-## RECOMMENDED INSTALL ON TERMUX
+## INSTALACIÓN RECOMENDADA EN TERMUX
 
 ```bash
 pkg install yarn
 yarn
 ```
 
-## Installing
+## Instalando
 ```bash
 $ node .
 ```
 
 ## ❗ Warning
-WhatsApp bot is still in the development stage, so there are a few bugs
-WhatsApp Connection (BETA, not working perfectly)
+El bot de WhatsApp todavía está en etapa de desarrollo, por lo que hay algunos errores
+Conexión WhatsApp (BETA, no funciona perfectamente)
 
 Editing Number Owner & session name in [`config.js`](https://github.com/DikaArdnt/Hisoka-Morou/blob/master/config.js)
 Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 
 
-## Thanks To
-* [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
-* [`Nurutomo`](https://github.com/Nurutomo)
-* [`Mhankbarbar`](https://github.com/MhankBarBar)
-* [`Faiz`](https://github.com/FaizBastomi)
-* [`Gimenz`](https://github.com/Gimenz)
-* [`rayy`](https://github.com/rayyreall)
-* [`Fatih Arridho`](https://github.com/FatihArridho)
-* [`zhwzein`](https://github.com/zhwzein)
-* [`CAF-ID`](https://github.com/CAF-ID)
-* [`bintang`](https://github.com/Bintangp02)
-
-```Thanks to all who have participated in the development of this script```
-
-
-License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
-
-Support Me
-* [`Paypal`](https://www.paypal.me/Cakhaho)
-* [`Saweria`](https://saweria.co/DikaArdnt)
